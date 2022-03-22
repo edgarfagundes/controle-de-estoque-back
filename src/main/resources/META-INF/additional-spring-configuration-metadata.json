@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "compile",
+      "type": "java.lang.String",
+      "description": "Description for compile."
+  }
+] }
